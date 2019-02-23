@@ -1,0 +1,3 @@
+/Users/calvinlee/desktop/FYP_ALL/Programming/demostration/build/CMakeFiles/rebuild_cache.dir
+/Users/calvinlee/desktop/FYP_ALL/Programming/demostration/build/CMakeFiles/edit_cache.dir
+/Users/calvinlee/desktop/FYP_ALL/Programming/demostration/build/CMakeFiles/eigenfaces.dir
